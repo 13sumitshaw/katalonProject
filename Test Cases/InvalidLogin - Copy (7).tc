@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>InvalidLogin - Copy (7)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7ffc9685-f0be-47cb-9ff0-c2e9ef4286c7</testCaseGuid>
+</TestCaseEntity>
